@@ -19,9 +19,9 @@ jobs:
             echo "Labs, exercises and assignments are submitted through Classroom 50:"
             echo ""
             echo '    gh extension install foundation50/gh-student'
-            echo '    gh student accept Amrita-School-of-AI aim-a-hpc <item>'
+            echo '    gh student accept Amrita-School-of-AI qts-mpqt <item>'
             echo '    gh student submit'
             echo ""
             echo "The grader's report appears as a Release on the item repository."
-            echo "Details: handbook/student-guide.pdf, Parts 3.2, 5 and 6."
+            echo "Details: handbook/student-guide.pdf."
           } >> "$GITHUB_STEP_SUMMARY"

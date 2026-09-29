@@ -62,15 +62,15 @@ week-by-week plan, the marks breakdown and the policies.
 
 ## Where the graded work happens
 
-This repository is read-only course material. Every lab, coding exercise and
-assignment is delivered through **Classroom 50** as a repository of its own,
+This repository is read-only course material. Every piece of graded work is
+delivered through **Classroom 50** as a repository of its own,
 created for you when you accept it, with an autograder whose report appears on
 that repository within minutes of each submission:
 
 ```bash
 gh extension install foundation50/gh-student
-gh student accept Amrita-School-of-AI aim-a-hpc <item>     # aim-b-hpc for section B
-# work, make check, commit
+gh student accept Amrita-School-of-AI qts-mpqt <item>
+# work, run the checks the item's README describes, commit
 gh student submit
 ```
 
