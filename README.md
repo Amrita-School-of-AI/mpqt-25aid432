@@ -23,7 +23,7 @@ week-by-week plan, the marks breakdown and the policies.
 | Document | Size |
 |---|---|
 | [course handbook](handbook/course-handbook.pdf) | 493 KB |
-| [student guide](handbook/student-guide.pdf) | 1396 KB |
+| [student guide](handbook/student-guide.pdf) | 1409 KB |
 
 ### Notes
 
