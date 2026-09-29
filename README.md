@@ -22,8 +22,8 @@ week-by-week plan, the marks breakdown and the policies.
 
 | Document | Size |
 |---|---|
-| [course handbook](handbook/course-handbook.pdf) | 468 KB |
-| [student guide](handbook/student-guide.pdf) | 629 KB |
+| [course handbook](handbook/course-handbook.pdf) | 493 KB |
+| [student guide](handbook/student-guide.pdf) | 1396 KB |
 
 ### Notes
 
@@ -50,7 +50,7 @@ week-by-week plan, the marks breakdown and the policies.
 
 | Document | Size |
 |---|---|
-| [class assignment](assignments/class-assignment.pdf) | 906 KB |
+| [class assignment](assignments/class-assignment.pdf) | 974 KB |
 
 ### Coding exercises
 
@@ -62,9 +62,20 @@ week-by-week plan, the marks breakdown and the policies.
 
 ## Where the graded work happens
 
-This repository is read-only course material. Deadlines and the submission
-channel for each piece of graded work are in the course handbook and are
-announced in class.
+This repository is read-only course material. Every lab, coding exercise and
+assignment is delivered through **Classroom 50** as a repository of its own,
+created for you when you accept it, with an autograder whose report appears on
+that repository within minutes of each submission:
+
+```bash
+gh extension install foundation50/gh-student
+gh student accept Amrita-School-of-AI aim-a-hpc <item>     # aim-b-hpc for section B
+# work, make check, commit
+gh student submit
+```
+
+The exercise folders here hold the statements, starters and public tests for
+reading; the copy you edit is the one Classroom 50 gives you.
 
 ## Licence and reuse
 
